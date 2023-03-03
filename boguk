@@ -1,0 +1,3 @@
+#bugok 1
+bugok = "ako"
+print bugok
